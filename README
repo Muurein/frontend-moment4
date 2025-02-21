@@ -1,0 +1,23 @@
+# Assignment 3 in the Frontend-course
+
+## Time to learn about SASS and SCSS
+
+### Krav:
+1. Det ska finnas minst två HTML-sidor. En startsida och en undersida som heter SASS. 
+2. Överskrifter och text med valfritt innehåll 
+3. Undersidan SASS ska innehålla en utvärdering av ditt arbete med SASS. Vilka för- och nackdelar ser du med SASS? 
+    Hur var det att komma igång att arbeta med en CSS-preprocessor. 
+4. En huvudmeny med minst fem meny-alternativ (kan länkas till enbart "#") 
+5. Webbplatsen ska ha stöd för ljust och mörkt tema med media query. Ta fram två färgscheman för detta.
+6. Responsiv webbdesign, både på innehåll och meny. Ska fungera väl på stora och små enheter. 
+7. Minst två stycken bilder av något slag. 
+
+#### Krav på vad som ska finnas med i SASS:
+1. Variabler (minst ska färgschema lagras i variabler) 
+2. Color functions (darken och lighten ska som minst användas, men gärna fler) 
+3. Nesting 
+4. Mixins 
+5. Selector inheritence (nyckelordet "@extend") 
+6. If/else-satser
+7. Minst en partial 
+8. Partials med en god filstruktur för CSS-kod 
