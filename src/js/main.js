@@ -15,11 +15,3 @@ dropdownMenuEl.addEventListener("click", () => {
     dropdownMenuEl.classList.remove("active");
     menuListEl.classList.remove("active");
 }))
-
-
-//animations
-/*const rainbowEl = document.querySelectorAll(".animations p");
-
-rainbowEl.addEventListener("click", () => {
-    rainbowEl.classList.toggle("activate");
-})*/

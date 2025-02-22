@@ -190,10 +190,21 @@ aside p {
 
 
 /* ANIMERING */
+.to-animations {
+    @include button(base.$color-secondary-darker);
+    width: 8em;
+}
+
+.to-animations:hover {
+    background-color: base.$link-secondary-hover;
+    animation: to-animations 1s linear infinite;
+}
+
 .animations {
     width: 70%;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 11em;
 }
 
 .animations p {
@@ -219,7 +230,7 @@ aside p {
 }
 
 .shrink:hover {
-    width: 13em;
+    width: 1em;
 }
 
 .windmill:hover {
