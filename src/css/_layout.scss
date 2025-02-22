@@ -1,7 +1,9 @@
 /* man måste inkludera vilken fil variabeln ska tas ifrån, annas kommer det bli undefined */
 @use "base";
 @use "components";
+@use "animations";
 @import "components"; /* funkade inte utan @import */
+
 
 * {
     margin: 0;
@@ -184,6 +186,56 @@ aside p {
 }
 .sass-page p {
     margin: 1em;
+}
+
+
+/* ANIMERING */
+.animations {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.animations p {
+    @include button(base.$color-secondary-darker);
+    margin: 2em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#rainbow {
+    margin-top: 4em;
+}
+
+#rainbow:hover {
+    animation-name: rainbow;
+    animation-duration: 1.5s;
+    animation-iteration-count: infinite;
+}
+
+.shrink {
+    transition-property: width, height;
+    transition-duration: 1.5s;
+}
+
+.shrink:hover {
+    width: 13em;
+}
+
+.windmill:hover {
+    animation: windmill 1s linear infinite;
+}
+
+.goodbye:hover {
+    animation: goodbye 3s linear;
+}
+
+.grow:hover {
+    animation: grow 3s linear;
+}
+
+.helicopter:hover {
+    animation: helicopter 4s;
 }
 
 /* footer */
