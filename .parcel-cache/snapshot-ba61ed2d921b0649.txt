@@ -38,7 +38,7 @@
 124C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\@parcel\packager-js\lib\helpers.js133846297000826851 0
 153C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\posthtml\node_modules\entities\lib\generated\decode-data-xml.js133846296999183997 0
 120C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\semver\functions\prerelease.js133846297003197800 0
-81C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\dist133847361113368403 1
+81C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\dist133847382860152622 1
 137C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\@parcel\resolver-default\lib\DefaultResolver.js133846296997617416 0
 132C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\utility-types\dist\aliases-and-guards.d.ts133846297001447179 0
 107C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\lmdb\dependencies133846297005966385 1
@@ -83,7 +83,7 @@
 124C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\dom-serializer\lib\foreignNames.js133846296998302222 0
 124C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\htmlnano\docs\docusaurus.config.js133846297003067196 0
 133C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\@parcel\watcher\src\linux\InotifyBackend.hh133846297002917595 0
-95C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\src\animering.html133847358537344325 0
+95C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\src\animering.html133847374158932454 0
 106C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\@swc\helpers\esm133846297007521391 1
 120C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\@swc\helpers\src\_defaults.mjs133846297010824139 0
 118C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\@parcel\workers\lib\types.js133846297003457620 0
@@ -108,7 +108,7 @@
 121C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\caniuse-lite\data\regions\TO.js133846297014774880 0
 131C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\@swc\helpers\cjs\_array_like_to_array.cjs133846296998484028 0
 150C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\@swc\helpers\cjs\_class_static_private_field_destructure.cjs133846297003097116 0
-97C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\src\css\_layout.scss133847361475999413 0
+97C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\src\css\_layout.scss133847382858702671 0
 117C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\sass\types\value\color.d.ts133846297005248294 0
 107C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\lmdb\util\when.js133846297006668856 0
 131C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\lmdb\node_modules\node-addon-api\index.js133846297001580267 0
@@ -117,7 +117,7 @@
 111C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\msgpackr\dist\test.js133846297002490901 0
 107C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\timsort\README.md133846296997817441 0
 141C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\msgpackr-extract\node_modules\detect-libc\README.md133846296999309364 0
-91C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\src\index.html133846298706926281 0
+91C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\src\index.html133847374348053400 0
 135C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\@parcel\watcher\src\windows\WindowsBackend.cc133846297001855264 0
 124C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\@parcel\events\lib\ValueEmitter.js133846297000612124 0
 127C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\cosmiconfig\dist\getPropertyByPath.js133846297000168842 0
@@ -136,7 +136,7 @@
 90C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\src\SASS.html133846136134064173 0
 106C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\src\images\wind-and-truth.jpg133846134125608830 0
 121C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\caniuse-lite\data\regions\KM.js133846297011700807 0
-91C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\src\js\main.js133846298982133241 0
+91C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\src\js\main.js133847381442208627 0
 133C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\posthtml\node_modules\domutils\lib\index.js133846296998530337 0
 97C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\globals133846296999263784 1
 124C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\@parcel\optimizer-css\package.json133846296998610662 0
@@ -166,7 +166,7 @@
 139C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest3.c133846297005043437 0
 105C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\sass\types\util133846297005683731 1
 137C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\caniuse-lite\data\features\wasm-relaxed-simd.js133846297015411790 0
-101C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\src\css\_animations.scss133847361111723053 0
+101C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\src\css\_animations.scss133847378548720705 0
 119C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\domutils\lib\esm\stringify.js133846297001183739 0
 99C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\type-fest133846297001512096 1
 117C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\@parcel\events\lib\types.js133846297000333496 0
@@ -391,7 +391,7 @@
 139C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\caniuse-lite\data\features\requestidlecallback.js133846297013362403 0
 123C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\postcss-value-parser\lib\index.js133846296997567379 0
 131C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\@parcel\packager-wasm\src\WasmPackager.js133846296999284368 0
-100C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\dist\index.8c1c22dc.css133847361113123461 0
+100C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\dist\index.8c1c22dc.css133847382860093845 0
 137C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\caniuse-lite\data\features\chacha20-poly1305.js133846297005613912 0
 127C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\caniuse-lite\data\features\flexbox.js133846297010213074 0
 131C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\@swc\helpers\cjs\_array_without_holes.cjs133846296999273756 0
@@ -564,7 +564,7 @@
 117C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\utility-types\dist\index.js133846296998343681 0
 122C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\htmlnano\lib\presets\ampSafe.mjs133846297005068463 0
 121C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\utility-types\dist\index.js.map133846297000373397 0
-114C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\dist\en-katts-resedagbok.eb8d05d7.jpg133847361113073417 0
+114C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\dist\en-katts-resedagbok.eb8d05d7.jpg133847382859939523 0
 119C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\domutils\lib\esm\helpers.d.ts133846297004258596 0
 127C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\@swc\helpers\cjs\_to_property_key.cjs133846297005271412 0
 118C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\entities\lib\escape.d.ts.map133846297003827805 0
@@ -770,7 +770,7 @@
 127C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\@parcel\core\src\SymbolPropagation.js133846297007088439 0
 121C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\caniuse-lite\data\regions\PN.js133846297013060326 0
 127C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\@swc\helpers\_\_sliced_to_array_loose133846297009863806 1
-91C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\dist\SASS.html133847361113053079 0
+91C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\dist\SASS.html133847382859939523 0
 135C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\caniuse-lite\data\features\payment-request.js133846297012894443 0
 128C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\posthtml\node_modules\domutils\LICENSE133846296997194088 0
 139C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\@swc\helpers\src\_is_native_reflect_construct.mjs133846297010981709 0
@@ -3934,7 +3934,7 @@
 113C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\@parcel\rust\browser.js133846296997929156 0
 113C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\@parcel\rust\index.d.ts133846297017226785 0
 111C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\@parcel\rust\index.js133846296998474454 0
-103C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\dist\index.18dbc454.js.map133847361113113486 0
+103C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\dist\index.18dbc454.js.map133847382860083864 0
 139C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\@parcel\rust\parcel-node-bindings.darwin-x64.node133846297010468772 0
 144C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\@parcel\rust\parcel-node-bindings.linux-arm64-gnu.node133846297012613675 0
 180C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-no-engines\package.json133846297008548855 0
@@ -4228,7 +4228,7 @@
 133C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\@parcel\core\lib\requests\PackageRequest.js133846297005683731 0
 136C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\@parcel\core\lib\requests\ValidationRequest.js133846297007426339 0
 138C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\@parcel\core\lib\requests\WriteBundlesRequest.js133846297007491471 0
-104C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\dist\index.8c1c22dc.css.map133847361113358424 0
+104C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\dist\index.8c1c22dc.css.map133847382860123759 0
 122C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\@parcel\core\lib\public\Asset.js133846297002273452 0
 128C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\@parcel\core\lib\public\BundleGraph.js133846297003737844 0
 127C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\@parcel\core\lib\public\Dependency.js133846297004653007 0
@@ -4323,7 +4323,7 @@
 105C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\.bin\semver.cmd133846297017608555 0
 117C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\.bin\update-browserslist-db133846297017608555 0
 121C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\node_modules\.bin\update-browserslist-db.cmd133846297017608555 0
-96C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\dist\animering.html133847361113103952 0
-99C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\dist\index.18dbc454.js133847361113053079 0
-92C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\dist\index.html133847266830571131 0
-109C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\dist\wind-and-truth.03a9e9a3.jpg133847361113243097 0
+96C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\dist\animering.html133847382860073903 0
+99C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\dist\index.18dbc454.js133847382859939523 0
+92C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\dist\index.html133847374743843869 0
+109C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Frontend\frontend-moment4\dist\wind-and-truth.03a9e9a3.jpg133847382860123759 0
